@@ -137,20 +137,20 @@ function touchEnded(){
 
 function openLink(){
   if (storyCounter == 6){
-    window.open("https://jmonk603.github.io/DandDARWinBar/");
-    window.location.href = ('https://jmonk603.github.io/DAndDExperienceP3/');
+    window.open("https://jmonk603.github.io/DandDARWinBarRng/");
+    window.location.href = ('https://jmonk603.github.io/DAndDExperienceP3Rng/');
   }
   if (storyCounter == 8){
-    window.open("https://jmonk603.github.io/DandDARLoseBar/");
-    window.location.href = ('https://jmonk603.github.io/DAndDExperienceP3/');
+    window.open("https://jmonk603.github.io/DandDARLoseBarRng/");
+    window.location.href = ('https://jmonk603.github.io/DAndDExperienceP3Rng/');
   }
   if (storyCounter == 13){
-    window.open("https://jmonk603.github.io/DandDARWinTalk/");
-    window.location.href = ('https://jmonk603.github.io/DAndDExperienceP3/');
+    window.open("https://jmonk603.github.io/DandDARWinTalkRng/");
+    window.location.href = ('https://jmonk603.github.io/DAndDExperienceP3Rng/');
   }
   if (storyCounter == 15){
-    window.open("https://jmonk603.github.io/DandDARLoseTalk/");
-    window.location.href = ('https://jmonk603.github.io/DAndDExperienceP3/');
+    window.open("https://jmonk603.github.io/DandDARLoseTalkRng/");
+    window.location.href = ('https://jmonk603.github.io/DAndDExperienceP3Rng/');
   }
 }
 
